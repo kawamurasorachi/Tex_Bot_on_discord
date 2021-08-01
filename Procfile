@@ -1,1 +1,1 @@
-tex-bot: python main.py
+tex-bot-on-discord: python main.py
